@@ -1,1 +1,0 @@
-<!-- For admins to delete and create articles -->
